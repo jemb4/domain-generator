@@ -1,1 +1,1 @@
-See preview [Link](https://jemb4.github.io/domain-generator/)
+See preview here [Link](https://jemb4.github.io/domain-generator/)
