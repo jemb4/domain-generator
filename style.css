@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+
+h3{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.container-1{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+.container-domain{
+    background-color: rgba(240, 248, 255, 0.493);
+    height: 400px;
+    outline: solid 1px brown;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    
+}
+
+.container-select{
+    background-color: rgba(240, 248, 255, 0.493);
+    outline: solid 1px brown;
+    width: 500px;
+}
