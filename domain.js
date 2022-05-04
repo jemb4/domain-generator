@@ -10,7 +10,7 @@ let hack = false;
 let btnHack = document.getElementById('btn-hack')
 
 function btnChange(){ //función que cambia el estado del botón
-console.log("ha pas")
+
   if(hack){
     hack = false
   }
