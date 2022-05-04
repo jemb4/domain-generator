@@ -21,14 +21,19 @@
         </div>
     </div>
     <div class="container-1 mt-5">
-        <div class="container-select p-3">
-                <select class="form-select" id="domainSelected">
+        <div class="container-select p-3 d-flex justify-content-between">
+            <div class="col-9">
+                <select class="form-select col" id="domainSelected">
                     <option selected value="none">select domain</option>
                     <option value=".com">.com</option>
                     <option value=".us">.us</option>
                     <option value=".es">.es</option>
                     <option value=".org">.org</option>
                   </select>
+            </div>
+            <div class="col-2">
+                  <button type="button" class="btn btn-outline-secondary" data-bs-toggle="button" autocomplete="off" id="btn-hack">hack</button>
+            </div>
         </div>
     </div>
 
